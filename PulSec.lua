@@ -1,7 +1,7 @@
 -- Master Loader
 local scripts = {
-    [1234567890] = "https://yourdomain.com/script1.lua",
-    [9876543210] = "https://yourdomain.com/script2.lua",
+    [8657806289] = "https://raw.githubusercontent.com/nitaybl/PulSec/refs/heads/main/dummiesvsnoobs.lua",
+    [121366332180773] = "https://yourdomain.com/script2.lua",
 }
 local id = game.PlaceId
 local url = scripts[id]
